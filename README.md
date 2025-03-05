@@ -1,1 +1,1 @@
-# VerdantFresh--Detecting-Freshness-Enhancing-Quality
+# VerdantFresh

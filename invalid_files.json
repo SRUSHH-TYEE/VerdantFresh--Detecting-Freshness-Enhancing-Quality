@@ -1,0 +1,15 @@
+{
+    "Invalid_Images": [
+        "verdantData/train/Potato__Healthy/freshPotato (1).webp",
+        "verdantData/train/Tomato__Rotten/rottenTomato (1).webp",
+        "verdantData/train/Carrot__Healthy/freshCarrot (1).webp",
+        "verdantData/train/Potato__Rotten/rottenPotato (1).webp",
+        "verdantData/train/Apple__Rotten/rottenApple (5).webp",
+        "verdantData/train/Apple__Rotten/rottenApple (3).webp",
+        "verdantData/train/Apple__Rotten/rottenApple (4).webp",
+        "verdantData/train/Apple__Rotten/rottenApple (2).webp",
+        "verdantData/train/Banana__Rotten/rottenBanana (2).webp",
+        "verdantData/train/Banana__Rotten/rottenBanana (1).webp",
+        "verdantData/train/Carrot__Rotten/rottenCarrot (1).webp"
+    ]
+}
